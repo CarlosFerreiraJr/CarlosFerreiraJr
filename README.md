@@ -22,7 +22,7 @@ Contatos:
 - 🔭 Professor de Informática Básica no Curso Preparatório COGITATIO - https://www.instagram.com/preparatorio_cogitatio/
 ```` 
 
-### Linguaguens e IDEs
+### Linguaguens e Bancos de Dados
 
 ![c++](https://user-images.githubusercontent.com/108193136/175820563-87c210bf-bc97-4596-b7c5-18794e078f45.png)
 ![download](https://user-images.githubusercontent.com/108193136/175821904-fcdb6ac6-c842-445a-a1fa-9d44027084a9.png)
@@ -30,4 +30,5 @@ Contatos:
 ![html](https://user-images.githubusercontent.com/108193136/175822289-7948f2f9-9d1a-42f3-b1ee-50eb1e900bfc.png)
 ![python](https://user-images.githubusercontent.com/108193136/175822361-dcc5ca76-f3d5-4854-ad96-b82bdd4c9537.png)
 ![R](https://user-images.githubusercontent.com/108193136/175822558-e8616204-36c1-47c4-907c-f09365a2aeb7.jpg)
-
+![php](https://user-images.githubusercontent.com/108193136/175823087-72f9f3c8-ac23-44fe-b291-dca235d2f659.png)
+![mysql](https://user-images.githubusercontent.com/108193136/175823090-6e8d0382-f0e0-4d70-9d44-a801fabf4171.png)
