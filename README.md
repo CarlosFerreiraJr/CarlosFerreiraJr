@@ -1,9 +1,11 @@
 ### 👋 Olá Pessoal, Sejam bem-vindos ao meu GitHub 
 
 Contatos:
-- 📫 E-mail pessoal: contato@profcarlosferreira.com.br
+- 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
+- 📫 E-mail para fins de magistério: contato@profcarlosferreira.com.br
 - 📫 E-mail corporativo: carlos.f.junior@globalhitss.com.br
 - 📫 LinkedIn: https://www.linkedin.com/in/carlos-alberto-ferreira-junior-85140118a/
+- 📫 Instagram: https://instagram.com/cferreirajr
 - 📫 Site: https://profcarlosferreira.com.br/
 
 ### Formação Acadêmica
