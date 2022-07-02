@@ -34,3 +34,5 @@ Contatos:
 ![R](https://user-images.githubusercontent.com/108193136/175822558-e8616204-36c1-47c4-907c-f09365a2aeb7.jpg)
 ![php](https://user-images.githubusercontent.com/108193136/175823087-72f9f3c8-ac23-44fe-b291-dca235d2f659.png)
 ![mysql](https://user-images.githubusercontent.com/108193136/175823090-6e8d0382-f0e0-4d70-9d44-a801fabf4171.png)
+![c_sharp](https://user-images.githubusercontent.com/108193136/177006157-38723ab7-03b3-4084-8db9-83dcf20baeba.png)
+![vb_net](https://user-images.githubusercontent.com/108193136/177006192-0054b5ed-35a4-40ba-8a3c-917a4c164d4e.PNG)
