@@ -21,7 +21,7 @@ Contatos:
 ```` 
 - 🔭 Analista de Sistemas Sênior na empresa GlobalHitss - https://globalhitss.com/
 - 🔭 Engenheiro Civil na empresa EVM Construções e Reforma - https://evmconstrucoesereforma.com.br/ 
-- 🔭 Professor de Informática Básica no Curso Preparatório COGITATIO - https://www.instagram.com/preparatorio_cogitatio/
+- 🔭 Engenheiro Civil na empresa RCA Engenharia - https://gruporcaengenharia.com.br/ 
 ```` 
 
 ### Linguaguens e Bancos de Dados
