@@ -22,6 +22,7 @@ Contatos:
 - 🔭 Analista de Sistemas Sênior na empresa GlobalHitss - https://globalhitss.com/
 - 🔭 Engenheiro Civil na empresa EVM Construções e Reforma - https://evmconstrucoesereforma.com.br/ 
 - 🔭 Engenheiro Civil na empresa RCA Engenharia - https://gruporcaengenharia.com.br/ 
+- 🔭 Professor particular de Algoritmo e Linguaguem de Programação C
 ```` 
 
 ### Linguaguens e Bancos de Dados
