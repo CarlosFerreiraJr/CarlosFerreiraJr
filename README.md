@@ -3,9 +3,6 @@
 Contatos:
 - 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
 - 📫 E-mail corporativo: carlos.f.junior@globalhitss.com.br
-- 📫 LinkedIn: https://www.linkedin.com/in/carlos-alberto-ferreira-junior-85140118a/
-- 📫 Instagram: https://instagram.com/cferreirajr
-- 📫 Site: https://profcarlosferreira.com.br/
 
 ### Formação Acadêmica
 ```` 
