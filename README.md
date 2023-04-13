@@ -2,7 +2,6 @@
 
 Contatos:
 - 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
-- 📫 E-mail para fins de magistério: contato@profcarlosferreira.com.br
 - 📫 E-mail corporativo: carlos.f.junior@globalhitss.com.br
 - 📫 LinkedIn: https://www.linkedin.com/in/carlos-alberto-ferreira-junior-85140118a/
 - 📫 Instagram: https://instagram.com/cferreirajr
@@ -20,8 +19,7 @@ Contatos:
 
 ```` 
 - 🔭 Analista de Sistemas Sênior na empresa GlobalHitss - https://globalhitss.com/
-- 🔭 Engenheiro Civil na empresa EVM Construções e Reforma - https://evmconstrucoesereforma.com.br/ 
-- 🔭 Engenheiro Civil na empresa RCA Engenharia - https://gruporcaengenharia.com.br/ 
+- 🔭 Engenheiro Civil
 - 🔭 Professor particular de Algoritmo e Linguaguem de Programação C
 ```` 
 
