@@ -20,7 +20,7 @@ Contatos:
 - 🔭 Professor particular de Algoritmo e Linguaguem de Programação C
 ```` 
 
-### Linguaguens e Bancos de Dados
+### Tecnologias
 
 ````
 - 🔭 Sistemas Operacionais: Unix (HP-UX, IBM AIX, Sun OS, Solaris), Windows Server 2003, Windows (XP, Vista, 7, 10, 11)
