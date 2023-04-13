@@ -13,7 +13,6 @@ Contatos:
 ```` 
 
 ### Alocação Profissional
-
 ```` 
 - 🔭 Analista de Sistemas Sênior na empresa GlobalHitss - https://globalhitss.com/
 - 🔭 Engenheiro Civil
@@ -21,7 +20,6 @@ Contatos:
 ```` 
 
 ### Tecnologias
-
 ````
 - 🔭 Sistemas Operacionais: Unix (HP-UX, IBM AIX, Sun OS, Solaris), Windows Server 2003, Windows (XP, Vista, 7, 10, 11)
 - 🔭Pacotes da Microsoft: MS Office, MS Project, Power BI.
