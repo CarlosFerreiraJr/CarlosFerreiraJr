@@ -2,7 +2,6 @@
 
 Contatos:
 - 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
-- 📫 E-mail corporativo: carlos.f.junior@globalhitss.com.br
 
 ### Formação Acadêmica
 ```` 
