@@ -39,17 +39,16 @@ Contatos:
 
 ### Cursos Relevantes e Especializações
 [Full Stack Web com Node, JavaScript e TypeScript 2026](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)<br>
-`Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,
-  Next, MySQL, MongoDB, Docker, GIT, API e Prisma
-`
+-Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,
+  Next, MySQL, MongoDB, Docker, GIT, API e Prisma<br>
 [POWER BI: Power Bi Completo - do Básico ao Avançado 2026](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado-1)<br>
-Trilha de aprendizado: POWER BI COMPLETO - DO BÁSICO AO AVANÇADO: Do Zero ao Profissional com
+- Trilha de aprendizado: POWER BI COMPLETO - DO BÁSICO AO AVANÇADO: Do Zero ao Profissional com
   Power Query, DAX, Dashboards + Projeto Prático.<br>
 [Curso de React JS 19 e Next.js 15](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado)<br>
-Trilha de aprendizado: React 19 e Next.js 15 com App Router, Server Actions, Server Components,
+- Trilha de aprendizado: React 19 e Next.js 15 com App Router, Server Actions, Server Components,
   Tailwind CSS, TypeScript e Rest API com NestJS<br>
 [Angular 19 - Curso Completo do Iniciante ao Avançado (2026)](https://www.udemy.com/course/angular-curso-completo-do-iniciante-ao-avancado)<br>
-Trilha de aprendizado: Angular com Material Design, TailwindCSS, API's REST, Login Social e
+- Trilha de aprendizado: Angular com Material Design, TailwindCSS, API's REST, Login Social e
   Micro-Frontends
   
 ### Portfólio de Projetos
