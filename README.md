@@ -1,10 +1,12 @@
 ### 👋 Olá Pessoal, Sejam bem-vindos ao meu GitHub 
+## Analista de Dados | Analista de Sistemas
 
 Contatos:
 - 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
 
 ### Formação Acadêmica
-```` 
+````
+- 🔭 Graduando Analise e Desenvolvimento de Sistemas pela UNIG - https://unig.br/
 - 🔭 Graduado em Ciência da Computação pela UNIG - https://unig.br/
 - 🔭 Graduado em Engenharia Civil pela UNIG - https://unig.br/
 - 🔭 Pós-Graduado em Gestão de Projetos pela UGB - http://www2.ugb.edu.br/
@@ -20,15 +22,11 @@ Contatos:
 
 ### Tecnologias
 ````
-- 🔭 Sistemas Operacionais: Unix (HP-UX, IBM AIX, Sun OS, Solaris), Windows Server 2003, Windows (XP, Vista, 7, 10, 11)
-- 🔭Pacotes da Microsoft: MS Office, MS Project, Power BI.
-- 🔭Plataformas de Colaboração em Equipe: MS Teams, Zoom, Meets.
-- 🔭Linguagens de Programação: Perl, Ansi C, C++, Shell Script, Pro*C, AWK, SQL, PL/SQL, Visual Basic 6.0.
-- 🔭Programação Web: HTML, CSS, JavaScript, Bootstrap, XML, PHP, .NET/C#, ASP, VB Script.
-- 🔭Banco de Dados: Oracle 8i e 9i; SQL Server; MySQL 8.
-- 🔭Telecom BSS: Cobrança, Fraude, Mediação, Tarifação; Aprovisionamento; Faturamento Direto (ARBOR/BP)
-- 🔭Framework BSS: Framework Oi Billing ARBOR e Framework EMBRATEL Billing ARBOR.
-- 🔭Ferramentas e IDEs: Putty, TOAD, PL/SQL Developer, Ultra Edit, ERWin, SVN, PVCS, Control-M, TeamViewer 9, Open VPN, 
-     Cisco AnyConnect, Visual Studio 2005, VS 2008, VS 2022, VS Code e GitHub.
-- 🔭Linguagens, Ferramentas e IDE de Ciência de Dados: Python 3.9, R, PyCharm, R Studio, Jupyter Notebook.
+- 🔭 Liderança & Gestão: Gestão de Sprints, Revisão de Código (Code Review), Arquitetura de Soluções, Mentoria Técnica, JIRA e Octane.
+- 🔭 Telecomunicações & BSS (Billing): Faturamento Direto (ARBOR/BP 8.5), Tarifação, Cobrança, Fraude, Mediação, Aprovisionamento, Framework Oi Billing e Framework Embratel Billing.
+- 🔭 Linguagens & Backend: C/C++, Pro*C, Python, PL/SQL, Shell Script (UNIX/AWK/Perl), C#, VB.NET, Visual Basic 6.0, PHP, Node.js e Consumo de REST APIs/JSON.
+- 🔭 Programação Web: Angular, API's REST com NestJS, TypeScript, React, Next.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5/CSS3 (SASS/SCSS), ASP e XML.
+- 🔭 Banco de Dados & Modelagem: Oracle (8i/9i - Procedures, Triggers, Functions, Tuning, DB Links), SQL Server, MySQL, MongoDB e ERWin.
+- 🔭 Ciência de Dados & Analytics: Python (PySpark), R, Power BI, PyCharm, RStudio e Jupyter Notebook.
+- 🔭 Infraestrutura, DevOps & Ferramentas: Linux/UNIX (HP-UX, AIX, Solaris), Docker, Git, GitHub, Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code
 ````
