@@ -36,3 +36,6 @@ Contatos:
 - 🔭 Infraestrutura, DevOps & Ferramentas: Linux/UNIX (HP-UX, AIX, Solaris), Docker, Git, GitHub,
       Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code
 ````
+
+### Portfólio de Projetos
+[Conexão a um BD ORACLE em Pro*C](https://github.com/CarlosFerreiraJr/conexao_bd_oracle_em_ProC)
