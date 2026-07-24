@@ -37,6 +37,20 @@ Contatos:
       Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code
 ````
 
+### Cursos Relevantes e Especializações
+[Full Stack Web com Node, JavaScript e TypeScript 2026](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)<br>
+- Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,
+  Next, MySQL, MongoDB, Docker, GIT, API e Prisma
+[POWER BI: Power Bi Completo - do Básico ao Avançado 2026](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado-1)<br>
+- Trilha de aprendizado: POWER BI COMPLETO - DO BÁSICO AO AVANÇADO: Do Zero ao Profissional com
+  Power Query, DAX, Dashboards + Projeto Prático.
+[Curso de React JS 19 e Next.js 15](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado)
+- Trilha de aprendizado: React 19 e Next.js 15 com App Router, Server Actions, Server Components,
+  Tailwind CSS, TypeScript e Rest API com NestJS
+[Angular 19 - Curso Completo do Iniciante ao Avançado (2026)](https://www.udemy.com/course/angular-curso-completo-do-iniciante-ao-avancado)
+- Trilha de aprendizado: Angular com Material Design, TailwindCSS, API's REST, Login Social e
+  Micro-Frontends
+  
 ### Portfólio de Projetos
 [Conexão a um BD ORACLE em Pro*C](https://github.com/CarlosFerreiraJr/conexao_bd_oracle_em_ProC)<br>
 [Criação de Indicadores utilizando VBA no Excel](https://github.com/CarlosFerreiraJr/Indicadores_VBA_Excel)<br>
