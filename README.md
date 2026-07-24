@@ -39,8 +39,11 @@ Contatos:
 
 ### Cursos Relevantes e Especializações
 [Full Stack Web com Node, JavaScript e TypeScript 2026](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)<br>
- ````Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,````<br>
- Next, MySQL, MongoDB, Docker, GIT, API e Prisma<br>
+ ````
+     Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,
+     Next, MySQL, MongoDB, Docker, GIT, API e Prisma
+````
+<br>
 [POWER BI: Power Bi Completo - do Básico ao Avançado 2026](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado-1)<br>
 -Trilha de aprendizado: POWER BI COMPLETO - DO BÁSICO AO AVANÇADO: Do Zero ao Profissional com
 -Power Query, DAX, Dashboards + Projeto Prático.<br>
