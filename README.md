@@ -6,7 +6,7 @@ Contatos:
 
 ### Formação Acadêmica
 ````
-- 🔭 Graduando Analise e Desenvolvimento de Sistemas pela UNIG - https://unig.br/
+- 🔭 Graduando Análise e Desenvolvimento de Sistemas pela UNIG - https://unig.br/
 - 🔭 Graduado em Ciência da Computação pela UNIG - https://unig.br/
 - 🔭 Graduado em Engenharia Civil pela UNIG - https://unig.br/
 - 🔭 Pós-Graduado em Gestão de Projetos pela UGB - http://www2.ugb.edu.br/
