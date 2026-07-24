@@ -38,7 +38,7 @@ Contatos:
 ````
 
 ### Portfólio de Projetos
-[Conexão a um BD ORACLE em Pro*C](https://github.com/CarlosFerreiraJr/conexao_bd_oracle_em_ProC)
+[Conexão a um BD ORACLE em Pro*C](https://github.com/CarlosFerreiraJr/conexao_bd_oracle_em_ProC)<br>
 [Criação de Indicadores utilizando VBA no Excel](https://github.com/CarlosFerreiraJr/Indicadores_VBA_Excel)
 [Leitura de arquivo CSV usando Python e PySpark](https://github.com/CarlosFerreiraJr/pyspark_leitura_arquivo_csv)
 [Séries Temporais em Python](https://github.com/CarlosFerreiraJr/series_temporais)
