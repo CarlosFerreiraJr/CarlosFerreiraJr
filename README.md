@@ -38,7 +38,7 @@ Contatos:
 ````
 
 ### Cursos Relevantes e Especializações
-[Full Stack Web com Node, JavaScript e TypeScript 2026](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)<br>
+[Full Stack Web com Node, JavaScript e TypeScript 2026](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)
  ````
      Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,
      Next, MySQL, MongoDB, Docker, GIT, API e Prisma
