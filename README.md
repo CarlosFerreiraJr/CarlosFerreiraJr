@@ -15,7 +15,7 @@ Contatos:
 
 ### Alocação Profissional
 ```` 
-- 🔭 Analista de Sistemas Sênior na empresa GlobalHitss - https://globalhitss.com/
+- 🔭 Analista de Sistemas Sênior
 - 🔭 Engenheiro Civil
 - 🔭 Professor particular de Algoritmo e Linguaguem de Programação C
 ```` 
