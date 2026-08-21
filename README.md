@@ -33,9 +33,9 @@ Contatos:
 - 🔭 Banco de Dados & Modelagem: Oracle (8i/9i - Procedures, Triggers, Functions, Tuning, DB Links),
       SQL Server, MySQL, MongoDB e ERWin.
 - 🔭 Ciência de Dados & Analytics: Python PySpark Para Análise de Dados Cloud, R, Power BI, PyCharm,
-      RStudio, Jupyter Notebook e Databricks com linguagem SQL, 
+      RStudio, Jupyter Notebook e Databricks com linguagem SQL.
 - 🔭 Infraestrutura, DevOps & Ferramentas: Linux/UNIX (HP-UX, AIX, Solaris), Docker, Git, GitHub,
-      Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code
+      Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code.
 ````
 
 ### Cursos Relevantes e Especializações
