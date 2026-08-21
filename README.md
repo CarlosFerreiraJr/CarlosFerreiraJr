@@ -32,7 +32,8 @@ Contatos:
       Tailwind CSS, Bootstrap, HTML5/CSS3 (SASS/SCSS), ASP e XML.
 - 🔭 Banco de Dados & Modelagem: Oracle (8i/9i - Procedures, Triggers, Functions, Tuning, DB Links),
       SQL Server, MySQL, MongoDB e ERWin.
-- 🔭 Ciência de Dados & Analytics: Python (PySpark), R, Power BI, PyCharm, RStudio e Jupyter Notebook.
+- 🔭 Ciência de Dados & Analytics: Python PySpark Para Análise de Dados Cloud, R, Power BI, PyCharm,
+      RStudio, Jupyter Notebook e Databricks com linguagem SQL, 
 - 🔭 Infraestrutura, DevOps & Ferramentas: Linux/UNIX (HP-UX, AIX, Solaris), Docker, Git, GitHub,
       Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code
 ````
@@ -57,6 +58,11 @@ Trilha de aprendizado: React 19 e Next.js 15 com App Router, Server Actions, Ser
 ````
 Trilha de aprendizado: Angular com Material Design, TailwindCSS, API's REST, Login Social e
                        Micro-Frontends
+````
+
+[Databricks com linguagem SQL, Python PySpark Para Análise de Dados Cloud](https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados)
+````
+Trilha de aprendizado: Databricks com linguagem SQL, Python PySpark Para Análise de Dados Cloud
 ````
   
 ### Portfólio de Projetos
