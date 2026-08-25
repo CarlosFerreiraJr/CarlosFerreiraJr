@@ -1,74 +1,196 @@
-## 👋 Olá Pessoal, Sejam bem-vindos ao meu GitHub 
-#### Profissional de Tecnologia da Informação com ampla experiência em análise de sistemas, desenvolvimento e liderança técnica. Atualmente direcionando minha formação para Engenharia e Ciência de Dados, com projetos envolvendo Python, PySpark, SQL, Power BI, ETL/ELT e análise de dados.
+# 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Contatos:
-- 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
+### 💻 Analista de Sistemas Sênior | Dados & BI | Python | PySpark | SQL | Power BI
 
-### Formação Acadêmica
-````
-- 🔭 Graduando Análise e Desenvolvimento de Sistemas pela UNIG - https://unig.br/
-- 🔭 Graduado em Ciência da Computação pela UNIG - https://unig.br/
-- 🔭 Graduado em Engenharia Civil pela UNIG - https://unig.br/
-- 🔭 Pós-Graduado em Gestão de Projetos pela UGB - http://www2.ugb.edu.br/
-- 🔭 Pós-Graduando em Ciência de Dados pela UniCarioca - https://unicarioca.edu.br/
-```` 
+Profissional de Tecnologia da Informação com ampla experiência em **análise de sistemas, desenvolvimento de software e liderança técnica**.
 
-### Alocação Profissional
-```` 
-- 🔭 Analista de Sistemas Sênior
-- 🔭 Engenheiro Civil
-- 🔭 Professor particular de Algoritmo e Linguaguem de Programação C
-```` 
+Atualmente, direciono minha formação para **Engenharia e Ciência de Dados**, desenvolvendo projetos envolvendo **Python, PySpark, SQL, Power BI, Databricks, ETL/ELT e análise de dados**.
 
-### Tecnologias
-````
-- 🔭 Liderança & Gestão: Gestão de Sprints, Revisão de Código (Code Review), Arquitetura de Soluções,
-      Mentoria Técnica, JIRA e Octane.
-- 🔭 Telecomunicações & BSS (Billing): Faturamento Direto (ARBOR/BP 8.5), Tarifação, Cobrança, Fraude,
-      Mediação, Aprovisionamento, Framework Oi Billing e Framework Embratel Billing.
-- 🔭 Linguagens & Backend: C/C++, Pro*C, Python, PL/SQL, Shell Script (UNIX/AWK/Perl), C#, VB.NET,
-      Visual Basic 6.0, PHP, Node.js e Consumo de REST APIs/JSON.
-- 🔭 Programação Web: Angular, API's REST com NestJS, TypeScript, React, Next.js, JavaScript (ES6+),
-      Tailwind CSS, Bootstrap, HTML5/CSS3 (SASS/SCSS), ASP e XML.
-- 🔭 Banco de Dados & Modelagem: Oracle (8i/9i - Procedures, Triggers, Functions, Tuning, DB Links),
-      SQL Server, MySQL, MongoDB e ERWin.
-- 🔭 Ciência de Dados & Analytics: Python PySpark Para Análise de Dados Cloud, R, Power BI, PyCharm,
-      RStudio, Jupyter Notebook e Databricks com linguagem SQL.
-- 🔭 Infraestrutura, DevOps & Ferramentas: Linux/UNIX (HP-UX, AIX, Solaris), Docker, Git, GitHub,
-      Angular CLI, npm/yarn, SVN, PVCS, SSH, Control-M, TOAD, PL/SQL Developer e VS Code.
-````
+Minha trajetória profissional combina experiência em **desenvolvimento de sistemas, bancos de dados, Telecom/BSS, liderança técnica e gestão de projetos**, com especialização crescente na área de Dados.
 
-### Cursos Relevantes e Especializações
-[Full Stack Web com Node, JavaScript e TypeScript 2026](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)
- ````
-     Trilha de aprendizado: HTML, CSS, FlexBox, Grid, JavaScript, Node, TypeScript, React, Tailwind,
-                            Next, MySQL, MongoDB, Docker, GIT, API e Prisma
-````
-[POWER BI: Power Bi Completo - do Básico ao Avançado 2026](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado-1)
-````
-Trilha de aprendizado: POWER BI COMPLETO - DO BÁSICO AO AVANÇADO: Do Zero ao Profissional com
-                       Power Query, DAX, Dashboards + Projeto Prático.
-````
-[Curso de React JS 19 e Next.js 15](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado)
-````
-Trilha de aprendizado: React 19 e Next.js 15 com App Router, Server Actions, Server Components,
-                       Tailwind CSS, TypeScript e Rest API com NestJS
-````
-[Angular 19 - Curso Completo do Iniciante ao Avançado (2026)](https://www.udemy.com/course/angular-curso-completo-do-iniciante-ao-avancado)
-````
-Trilha de aprendizado: Angular com Material Design, TailwindCSS, API's REST, Login Social e
-                       Micro-Frontends
-````
+---
 
-[Databricks com linguagem SQL, Python PySpark Para Análise de Dados Cloud](https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados)
-````
-Trilha de aprendizado: Databricks com linguagem SQL, Python PySpark Para Análise de Dados Cloud
-````
-  
-### Portfólio de Projetos
-[Conexão a um BD ORACLE em Pro*C](https://github.com/CarlosFerreiraJr/conexao_bd_oracle_em_ProC)<br>
-[Criação de Indicadores utilizando VBA no Excel](https://github.com/CarlosFerreiraJr/Indicadores_VBA_Excel)<br>
-[Leitura de arquivo CSV usando Python e PySpark](https://github.com/CarlosFerreiraJr/pyspark_leitura_arquivo_csv)<br>
-[Séries Temporais em Python](https://github.com/CarlosFerreiraJr/series_temporais)<br>
-[Exemplo de Utilização da Função RANK OVER PARTITION do SQL Oracle](https://github.com/CarlosFerreiraJr/sql_rank_over_partition)<br>
-[Leitura de DataSet em R e Tratamento dos dados](https://github.com/CarlosFerreiraJr/Estatisticas_em_R)
+## 🚀 Áreas de Interesse
+
+- 📊 Data Analytics & Business Intelligence
+- ⚡ Engenharia e Processamento de Dados
+- 🐍 Python & PySpark
+- 🗄️ SQL & Bancos de Dados
+- 📈 Power BI & Visualização de Dados
+- 🔄 ETL / ELT
+- ☁️ Databricks & Cloud
+- 💻 Desenvolvimento de Software
+
+---
+
+## 🛠️ Tecnologias e Competências
+
+### 📊 Dados & Analytics
+`Python` `PySpark` `SQL` `Power BI` `Databricks` `R` `Jupyter Notebook` `RStudio`
+
+### 🗄️ Banco de Dados & Modelagem
+`Oracle` `PL/SQL` `SQL Server` `MySQL` `MongoDB` `ERWin`
+
+Experiência com **Procedures, Triggers, Functions, Tuning e DB Links** em Oracle.
+
+### 💻 Linguagens & Backend
+`C` `C++` `Pro*C` `Python` `C#` `VB.NET` `Visual Basic 6` `PHP` `Node.js`
+
+Desenvolvimento e consumo de **REST APIs / JSON**.
+
+### 🌐 Desenvolvimento Web
+`Angular` `React` `Next.js` `NestJS` `TypeScript` `JavaScript` `HTML5` `CSS3` `SASS/SCSS` `Tailwind CSS` `Bootstrap`
+
+### ⚙️ DevOps, Sistemas & Ferramentas
+`Git` `GitHub` `Docker` `Linux` `UNIX` `Control-M` `SVN` `PVCS` `SSH` `VS Code` `PyCharm`
+
+Experiência em ambientes **HP-UX, AIX e Solaris**.
+
+### 👥 Liderança & Gestão
+- Gestão de Sprints
+- Code Review
+- Arquitetura de Soluções
+- Mentoria Técnica
+- JIRA
+- Octane
+
+### 📡 Telecomunicações & BSS
+Experiência em:
+
+- Faturamento / Billing
+- Tarifação
+- Cobrança
+- Fraude
+- Mediação
+- Aprovisionamento
+- ARBOR/BP 8.5
+- Framework Oi Billing
+- Framework Embratel Billing
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 📊 Power BI — Relatório Consolidado de Vendas
+
+Dashboard desenvolvido em Power BI para análise de vendas por **estado, região, ano, vendedor e seção**.
+
+**Tecnologias:** `Power BI` `Power Query` `Modelagem de Dados`
+
+---
+
+## ⚡ Leitura e Processamento de CSV com PySpark
+
+Projeto utilizando Python e Apache Spark para leitura e processamento de arquivos CSV.
+
+**Tecnologias:** `Python` `PySpark`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/pyspark_leitura_arquivo_csv)
+
+---
+
+## 🗄️ Conexão com Oracle utilizando Pro*C
+
+Exemplo de conexão e manipulação de banco de dados Oracle utilizando Pro*C.
+
+**Tecnologias:** `C` `Pro*C` `Oracle` `SQL`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/conexao_bd_oracle_em_ProC)
+
+---
+
+## 📈 Séries Temporais em Python
+
+Projeto voltado à análise de séries temporais utilizando Python.
+
+**Tecnologias:** `Python` `Análise de Dados`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/series_temporais)
+
+---
+
+## 🧮 Indicadores utilizando VBA no Excel
+
+Projeto de criação de indicadores e automações utilizando VBA.
+
+**Tecnologias:** `Excel` `VBA`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/Indicadores_VBA_Excel)
+
+---
+
+## 🗃️ SQL Oracle — RANK OVER PARTITION
+
+Exemplo prático de utilização de funções analíticas no Oracle.
+
+**Tecnologias:** `Oracle` `SQL` `PL/SQL`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/sql_rank_over_partition)
+
+---
+
+## 📊 Estatística e Tratamento de Dados com R
+
+Leitura de dataset e tratamento de dados utilizando R.
+
+**Tecnologias:** `R` `Análise de Dados`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/Estatisticas_em_R)
+
+---
+
+# 🎓 Formação Acadêmica
+
+- 🎓 **Pós-graduação em Ciência de Dados** — UniCarioca *(em andamento)*
+- 🎓 **Pós-graduação em Gestão de Projetos** — UGB
+- 🎓 **Análise e Desenvolvimento de Sistemas** — UNIG *(em andamento)*
+- 🎓 **Ciência da Computação** — UNIG
+- 🎓 **Engenharia Civil** — UNIG
+
+---
+
+# 💼 Atuação Profissional
+
+- 💻 **Analista de Sistemas Sênior**
+- 👨‍🏫 **Professor particular de Algoritmos e Linguagem de Programação C**
+- 🏗️ **Engenheiro Civil**
+
+---
+
+# 📚 Cursos e Especializações
+
+### Databricks — SQL, Python e PySpark para Análise de Dados
+[Ver curso](https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados)
+
+`Databricks` `SQL` `Python` `PySpark` `Cloud`
+
+### Power BI — Do Básico ao Avançado
+[Ver curso](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado-1)
+
+`Power BI` `Power Query` `DAX` `Dashboards`
+
+### Full Stack — Node, JavaScript e TypeScript
+[Ver curso](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)
+
+`JavaScript` `Node.js` `TypeScript` `React` `Next.js` `MySQL` `MongoDB` `Docker` `Git` `API` `Prisma`
+
+### React 19 & Next.js 15
+[Ver curso](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado)
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `NestJS` `REST API`
+
+### Angular 19
+[Ver curso](https://www.udemy.com/course/angular-curso-completo-do-iniciante-ao-avancado)
+
+`Angular` `Material Design` `Tailwind CSS` `REST APIs` `Micro-Frontends`
+
+---
+
+# 📫 Contato
+
+📧 **E-mail:** carlos.a.ferreira.junior@gmail.com
+
+---
+
+⭐ Obrigado pela visita!  
+Sinta-se à vontade para explorar meus repositórios e projetos.
