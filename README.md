@@ -1,5 +1,5 @@
 ## 👋 Olá Pessoal, Sejam bem-vindos ao meu GitHub 
-#### Analista de Dados | Analista de Sistemas
+#### Profissional de Tecnologia da Informação com ampla experiência em análise de sistemas, desenvolvimento e liderança técnica. Atualmente direcionando minha formação para Engenharia e Ciência de Dados, com projetos envolvendo Python, PySpark, SQL, Power BI, ETL/ELT e análise de dados.
 
 Contatos:
 - 📫 E-mail pessoal: carlos.a.ferreira.junior@gmail.com
