@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub
 
-### 💻 Analista de Sistemas Sênior | Dados & BI | Python | PySpark | SQL | Power BI
+### 💻 Analista de Sistemas Sênior | Full Stack Developer | React | Node.js | Dados e BI | SQL | Python | PySpark | Power BI
 
 Profissional de Tecnologia da Informação com ampla experiência em **análise de sistemas, desenvolvimento de software e liderança técnica**.
 
