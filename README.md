@@ -1,12 +1,17 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub
 
-### 💻 Analista de Sistemas Sênior | Full Stack Developer | React | Node.js | Dados e BI | SQL | Python | PySpark | Power BI
+### 💻 Analista de Sistemas Sênior | Full Stack Developer | React | Node.js | Dados & BI | SQL | Python | PySpark | Power BI
 
-Profissional de Tecnologia da Informação com ampla experiência em **análise de sistemas, desenvolvimento de software e liderança técnica**.
+Profissional de **Tecnologia da Informação** com sólida experiência em **análise de sistemas, desenvolvimento de software, bancos de dados, liderança técnica e gestão de projetos**, atuando na construção e evolução de soluções corporativas.
 
-Atualmente, direciono minha formação para **Engenharia e Ciência de Dados**, desenvolvendo projetos envolvendo **Python, PySpark, SQL, Power BI, Databricks, ETL/ELT e análise de dados**.
+Minha experiência combina **desenvolvimento Full Stack e Dados & BI**, com projetos envolvendo **React, Node.js, APIs REST, SQL, Python, PySpark, Databricks, ETL/ELT, Power BI e DAX**.
 
-Minha trajetória profissional combina experiência em **desenvolvimento de sistemas, bancos de dados, Telecom/BSS, liderança técnica e gestão de projetos**, com especialização crescente na área de Dados.
+Ao longo da minha trajetória, atuei em ambientes de alta complexidade, especialmente em **Telecom/BSS**, participando de projetos desde o levantamento e análise de requisitos até o desenvolvimento, integração, testes, homologação e implantação em produção.
+
+Atualmente, continuo ampliando minha atuação em **Engenharia e Ciência de Dados**, aplicando tecnologias de processamento, transformação, análise e visualização de dados em projetos práticos.
+
+🚀 **Principais áreas de atuação:**  
+`Análise de Sistemas` • `Full Stack Development` • `APIs REST` • `SQL` • `Python` • `PySpark` • `Databricks` • `ETL/ELT` • `Power BI` • `DAX` • `Dados & BI`
 
 ---
 
