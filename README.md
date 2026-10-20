@@ -10,17 +10,20 @@ Também desenvolvo projetos em **Engenharia e Ciência de Dados**, utilizando **
 
 Ao longo da carreira, participei de projetos de alta complexidade, especialmente no setor de **Telecomunicações/BSS**, desde a análise de requisitos até desenvolvimento, integração, testes, homologação e implantação em produção.
 
-Atualmente, continuo ampliando meus conhecimentos por meio de projetos práticos em **desenvolvimento backend, APIs REST, engenharia de dados, automação de pipelines e Machine Learning**.
+Atualmente, continuo ampliando meus conhecimentos por meio de projetos práticos em **desenvolvimento backend, APIs REST, engenharia de dados, automação de processos (RPA), integração com APIs, automação de pipelines e Machine Learning**.
+
+Também desenvolvo soluções de automação utilizando **Python, Gmail API, OAuth 2.0, BeautifulSoup e OpenPyXL**, aplicando técnicas de extração, tratamento e consolidação de informações.
 
 🚀 **Principais competências:**
 
-`Python` • `Django` • `Django REST Framework` • `MySQL` • `Oracle` • `PL/SQL` • `C++` • `Clipper` • `JavaScript` • `Node.js` • `PySpark` • `Databricks` • `Apache Airflow` • `Docker` • `SQL` • `Power BI`
+`Python` • `Django` • `Django REST Framework` • `MySQL` • `Oracle` • `PL/SQL` • `C++` • `Clipper` • `JavaScript` • `Node.js` • `PySpark` • `Databricks` • `Apache Airflow` • `Docker` • `SQL` • `Power BI` • `RPA` • `Gmail API` • `BeautifulSoup` • `OpenPyXL`
 
 ---
 
 ## 🚀 Áreas de Interesse
 
 - 🐍 Desenvolvimento Backend com Python e Django
+- 🤖 Automação de Processos (RPA) com Python e integração com APIs
 - 🌐 Desenvolvimento Full Stack e APIs REST
 - 📊 Engenharia e Ciência de Dados
 - ⚡ PySpark, Apache Spark e Databricks
@@ -113,6 +116,29 @@ Sistema web para gerenciamento de produtos da **EJ Serviços — Tudo para sua P
 **Tecnologias:** `Python` `Django` `Django REST Framework` `MySQL` `HTML5` `CSS3` `JavaScript`
 
 🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/crud-produtos-django)
+
+---
+
+## 🤖 RPA de Vagas LinkedIn — Python + Gmail API + Excel
+
+Projeto de **automação de processos (RPA)** desenvolvido em Python para consultar alertas de vagas do LinkedIn recebidos por e-mail, extrair informações relevantes e consolidar os resultados automaticamente em uma planilha Excel.
+
+A solução utiliza a **Gmail API com autenticação OAuth 2.0**, processamento de conteúdo HTML com BeautifulSoup e geração de relatórios com OpenPyXL.
+
+**Funcionalidades:**
+- Autenticação segura no Gmail utilizando OAuth 2.0
+- Consulta automatizada de alertas de vagas do LinkedIn
+- Extração de cargo, empresa, localização e modalidade de trabalho
+- Identificação e eliminação de vagas duplicadas pelo ID
+- Consolidação das oportunidades em uma planilha Excel
+- Geração de links clicáveis para acesso direto às vagas
+- Formatação automática da planilha com filtros e cabeçalhos personalizados
+
+**Resultado:** durante os testes, o RPA processou alertas recebidos no Gmail e consolidou **61 vagas únicas**, organizadas em uma planilha Excel.
+
+**Tecnologias:** `Python` `Gmail API` `OAuth 2.0` `BeautifulSoup4` `OpenPyXL` `HTML` `Git` `GitHub`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/rpa-vagas-linkedin)
 
 ---
 
