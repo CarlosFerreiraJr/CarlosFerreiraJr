@@ -1,65 +1,87 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub
+# 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-### 💻 Analista de Sistemas Sênior | Full Stack Developer | React | Node.js | Dados & BI | SQL | Python | PySpark | Power BI
+### 💻 Analista de Sistemas Sênior | Software Developer | Python | Django | APIs REST | Engenharia de Dados | Full Stack | Oracle | C++ | Clipper
 
-Profissional de **Tecnologia da Informação** com sólida experiência em **análise de sistemas, desenvolvimento de software, bancos de dados, liderança técnica e gestão de projetos**, atuando na construção e evolução de soluções corporativas.
+Profissional de **Tecnologia da Informação com mais de 30 anos de experiência**, atuando em **análise de sistemas, desenvolvimento de software, bancos de dados, liderança técnica e gestão de projetos**.
 
-Minha experiência combina **desenvolvimento Full Stack e Dados & BI**, com projetos envolvendo **React, Node.js, APIs REST, SQL, Python, PySpark, Databricks, ETL/ELT, Power BI e DAX**.
+Minha trajetória combina sólida experiência em **sistemas corporativos e tecnologias legadas**, especialmente **C, C++, Clipper, Oracle, PL/SQL, Pro*C e UNIX**, com desenvolvimento de soluções modernas utilizando **Python, Django, Django REST Framework, JavaScript, React, Node.js, MySQL, APIs REST e Docker**.
 
-Ao longo da minha trajetória, atuei em ambientes de alta complexidade, especialmente em **Telecom/BSS**, participando de projetos desde o levantamento e análise de requisitos até o desenvolvimento, integração, testes, homologação e implantação em produção.
+Também desenvolvo projetos em **Engenharia e Ciência de Dados**, utilizando **PySpark, Azure Databricks, Apache Spark, ETL/ELT, Apache Airflow, SQL, Power BI e Machine Learning**.
 
-Atualmente, continuo ampliando minha atuação em **Engenharia e Ciência de Dados**, aplicando tecnologias de processamento, transformação, análise e visualização de dados em projetos práticos.
+Ao longo da carreira, participei de projetos de alta complexidade, especialmente no setor de **Telecomunicações/BSS**, desde a análise de requisitos até desenvolvimento, integração, testes, homologação e implantação em produção.
 
-🚀 **Principais áreas de atuação:**  
-`Análise de Sistemas` • `Full Stack Development` • `APIs REST` • `SQL` • `Python` • `PySpark` • `Databricks` • `ETL/ELT` • `Power BI` • `DAX` • `Dados & BI`
+Atualmente, continuo ampliando meus conhecimentos por meio de projetos práticos em **desenvolvimento backend, APIs REST, engenharia de dados, automação de pipelines e Machine Learning**.
+
+🚀 **Principais competências:**
+
+`Python` • `Django` • `Django REST Framework` • `MySQL` • `Oracle` • `PL/SQL` • `C++` • `Clipper` • `JavaScript` • `Node.js` • `PySpark` • `Databricks` • `Apache Airflow` • `Docker` • `SQL` • `Power BI`
 
 ---
 
 ## 🚀 Áreas de Interesse
 
-- 📊 Data Analytics & Business Intelligence
-- ⚡ Engenharia e Processamento de Dados
-- 🐍 Python & PySpark
-- 🗄️ SQL & Bancos de Dados
-- 📈 Power BI & Visualização de Dados
-- 🔄 ETL / ELT
-- ☁️ Databricks & Cloud
-- 💻 Desenvolvimento de Software
+- 🐍 Desenvolvimento Backend com Python e Django
+- 🌐 Desenvolvimento Full Stack e APIs REST
+- 📊 Engenharia e Ciência de Dados
+- ⚡ PySpark, Apache Spark e Databricks
+- 🔄 ETL/ELT e Orquestração de Pipelines
+- 🗄️ Banco de Dados e Desenvolvimento SQL
+- ☁️ Azure, Cloud e Arquitetura Lakehouse
+- 🤖 Machine Learning e Inteligência Artificial
+- 💻 Modernização e manutenção de sistemas legados
+- 📈 Business Intelligence e Power BI
 
 ---
 
 ## 🛠️ Tecnologias e Competências
 
-### 📊 Dados & Analytics
-`Python` `PySpark` `SQL` `Power BI` `Databricks` `R` `Jupyter Notebook` `RStudio`
+### 🐍 Python, Backend & APIs
+
+`Python` `Django` `Django REST Framework` `REST API` `JSON` `MySQL` `Node.js` `Express` `Git` `GitHub`
+
+Desenvolvimento de aplicações backend, APIs REST e sistemas CRUD, incluindo integração com bancos de dados relacionais, validação de informações e consumo de APIs por interfaces web.
+
+### 📊 Engenharia de Dados, Analytics & Machine Learning
+
+`Python` `PySpark` `Apache Spark` `Azure Databricks` `Delta Lake` `Lakehouse` `Apache Airflow` `ETL/ELT` `SQL` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter Notebook` `Power BI` `DAX` `R` `RStudio`
+
+Projetos envolvendo processamento e transformação de dados, arquitetura Medallion, orquestração de workflows, análise exploratória e modelos de classificação com Machine Learning.
 
 ### 🗄️ Banco de Dados & Modelagem
-`Oracle` `PL/SQL` `SQL Server` `MySQL` `MongoDB` `ERWin`
 
-Experiência com **Procedures, Triggers, Functions, Tuning e DB Links** em Oracle.
+`Oracle` `PL/SQL` `MySQL` `SQL Server` `MongoDB` `ERWin`
 
-### 💻 Linguagens & Backend
-`C` `C++` `Pro*C` `Python` `C#` `VB.NET` `Visual Basic 6` `PHP` `Node.js`
+Experiência com **Stored Procedures, Triggers, Functions, SQL Tuning, DB Links, modelagem de dados e integração entre sistemas**.
 
-Desenvolvimento e consumo de **REST APIs / JSON**.
+### 💻 Linguagens & Sistemas Corporativos
+
+`C` `C++` `Clipper` `Pro*C` `Python` `C#` `VB.NET` `Visual Basic 6` `PHP` `SQL` `PL/SQL`
+
+Experiência no desenvolvimento, manutenção e evolução de sistemas corporativos, incluindo processamento batch, integração com bancos de dados e tecnologias legadas.
 
 ### 🌐 Desenvolvimento Web
-`Angular` `React` `Next.js` `NestJS` `TypeScript` `JavaScript` `HTML5` `CSS3` `SASS/SCSS` `Tailwind CSS` `Bootstrap`
+
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Angular` `Node.js` `NestJS` `Bootstrap` `Tailwind CSS` `SASS/SCSS`
 
 ### ⚙️ DevOps, Sistemas & Ferramentas
-`Git` `GitHub` `Docker` `Linux` `UNIX` `Control-M` `SVN` `PVCS` `SSH` `VS Code` `PyCharm`
 
-Experiência em ambientes **HP-UX, AIX e Solaris**.
+`Git` `GitHub` `Docker` `Docker Compose` `WSL2` `Linux` `UNIX` `Azure` `Apache Airflow` `Control-M` `SVN` `PVCS` `SSH` `VS Code` `PyCharm`
 
-### 👥 Liderança & Gestão
+Experiência com ambientes **HP-UX, AIX e Solaris**, além de desenvolvimento em Windows e Linux.
+
+### 👥 Liderança Técnica & Gestão
+
+- Liderança de equipes de desenvolvimento
 - Gestão de Sprints
-- Code Review
+- Análise de Requisitos
 - Arquitetura de Soluções
+- Code Review
 - Mentoria Técnica
-- JIRA
-- Octane
+- Integração e Implantação de Sistemas
+- JIRA e Octane
 
 ### 📡 Telecomunicações & BSS
+
 Experiência em:
 
 - Faturamento / Billing
@@ -76,9 +98,49 @@ Experiência em:
 
 # 🚀 Projetos em Destaque
 
+## 🐍 CRUD de Produtos — Django REST Framework + MySQL
+
+Sistema web para gerenciamento de produtos da **EJ Serviços — Tudo para sua Piscina**.
+
+**Funcionalidades:**
+- Cadastro, consulta, alteração e exclusão de produtos
+- API REST com métodos GET, POST, PUT, PATCH e DELETE
+- Pesquisa por ID, nome ou QR Code
+- Interface web responsiva com HTML, CSS e JavaScript
+- Integração com MySQL
+- Validações e notificações visuais
+
+**Tecnologias:** `Python` `Django` `Django REST Framework` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/crud-produtos-django)
+
+---
+
+## 🗄️ CRUD de Produtos — Python + MySQL
+
+Aplicação Python para gerenciamento de produtos em banco de dados MySQL, com operações CRUD, menu interativo e configuração de conexão por variáveis de ambiente.
+
+**Tecnologias:** `Python` `MySQL` `SQL` `Git`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/crud-python-mysql)
+
+---
+
+## ☁️ Projeto BikeStore — Azure Databricks & Lakehouse
+
+Projeto de engenharia de dados utilizando **Azure Databricks, Apache Spark e Azure Data Lake Storage Gen2**.
+
+Implementação de arquitetura **Medallion**, organizada em camadas Bronze, Silver e Gold, com utilização de Unity Catalog e execução de workflows.
+
+**Tecnologias:** `Azure Databricks` `PySpark` `Apache Spark` `ADLS Gen2` `Delta Lake` `Unity Catalog`
+
+🔗 [Acessar projeto](https://github.com/CarlosFerreiraJr/bikestore-azure-databricks)
+
+---
+
 ## 📊 Power BI — Relatório Consolidado de Vendas
 
-Dashboard desenvolvido em Power BI para análise de vendas por **estado, região, ano, vendedor e seção**.
+Dashboard para análise de vendas por estado, região, ano, vendedor e seção.
 
 **Tecnologias:** `Power BI` `Power Query` `Modelagem de Dados`
 
@@ -136,7 +198,7 @@ Exemplo prático de utilização de funções analíticas no Oracle.
 
 ## 📊 Estatística e Tratamento de Dados com R
 
-Leitura de dataset e tratamento de dados utilizando R.
+Leitura de datasets e tratamento de dados utilizando R.
 
 **Tecnologias:** `R` `Análise de Dados`
 
@@ -156,35 +218,55 @@ Leitura de dataset e tratamento de dados utilizando R.
 
 # 💼 Atuação Profissional
 
-- 💻 **Analista de Sistemas Sênior**
+- 💻 **Analista de Sistemas Sênior / Desenvolvedor de Software**
+- 👨‍💻 **Liderança Técnica e Desenvolvimento de Sistemas Corporativos**
 - 👨‍🏫 **Professor particular de Algoritmos e Linguagem de Programação C**
 - 🏗️ **Engenheiro Civil**
+
+Experiência profissional em empresas como **Atos Origin, Accenture e Global HITSS**, atuando em desenvolvimento, sustentação e evolução de sistemas corporativos.
 
 ---
 
 # 📚 Cursos e Especializações
 
-### Databricks — SQL, Python e PySpark para Análise de Dados
+### 🐍 Django REST Framework
+
+Estudos e desenvolvimento prático de APIs REST com Python, Django e integração com MySQL.
+
+`Python` `Django` `Django REST Framework` `MySQL` `APIs REST`
+
+### ⚙️ Apache Airflow
+
+Estudos e projetos de orquestração de workflows e pipelines de dados.
+
+`Apache Airflow` `Docker` `Python` `Workflows` `Pipelines`
+
+### ☁️ Databricks — SQL, Python e PySpark para Análise de Dados
+
 [Ver curso](https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados)
 
 `Databricks` `SQL` `Python` `PySpark` `Cloud`
 
-### Power BI — Do Básico ao Avançado
+### 📊 Power BI — Do Básico ao Avançado
+
 [Ver curso](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado-1)
 
 `Power BI` `Power Query` `DAX` `Dashboards`
 
-### Full Stack — Node, JavaScript e TypeScript
+### 🌐 Full Stack — Node, JavaScript e TypeScript
+
 [Ver curso](https://www.udemy.com/course/fullstack-javascript-node-typescript-react-next-docker-git-api/)
 
 `JavaScript` `Node.js` `TypeScript` `React` `Next.js` `MySQL` `MongoDB` `Docker` `Git` `API` `Prisma`
 
-### React 19 & Next.js 15
+### ⚛️ React 19 & Next.js 15
+
 [Ver curso](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado)
 
 `React` `Next.js` `TypeScript` `Tailwind CSS` `NestJS` `REST API`
 
-### Angular 19
+### 🌐 Angular 19
+
 [Ver curso](https://www.udemy.com/course/angular-curso-completo-do-iniciante-ao-avancado)
 
 `Angular` `Material Design` `Tailwind CSS` `REST APIs` `Micro-Frontends`
@@ -195,7 +277,10 @@ Leitura de dataset e tratamento de dados utilizando R.
 
 📧 **E-mail:** carlos.a.ferreira.junior@gmail.com
 
+🔗 **GitHub:** https://github.com/CarlosFerreiraJr
+
 ---
 
-⭐ Obrigado pela visita!  
-Sinta-se à vontade para explorar meus repositórios e projetos.
+⭐ **Obrigado pela visita!**
+
+Sinta-se à vontade para explorar meus repositórios, conhecer meus projetos e acompanhar minha evolução profissional em desenvolvimento de software, engenharia de dados e inteligência artificial.
